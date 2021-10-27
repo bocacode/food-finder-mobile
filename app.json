@@ -17,7 +17,9 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.bocacode.foodfinder",
+      "buildNumber": "1.0.0"
     },
     "android": {
       "adaptiveIcon": {

@@ -30,6 +30,10 @@ const styles = StyleSheet.create({
   cardSubtitle: {
     fontSize: 16,
     padding: 4,
+  },
+  detailsImage: {
+    width: '100%',
+    height: 240,
   }
 })
 
